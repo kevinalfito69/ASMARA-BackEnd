@@ -1,6 +1,3 @@
-Berikut adalah contoh README untuk **backend ASMARA** yang menggunakan Django:
-
----
 
 # ASMARA Backend - Django
 
