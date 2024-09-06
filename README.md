@@ -16,8 +16,8 @@ Ini adalah backend dari aplikasi **ASMARA (Aspirasi Masyarakat)** yang dikembang
 ### 1. Clone Repository
 Clone repository ini dari GitHub:
 ```bash
-git clone https://github.com/username/asmara-backend.git
-cd asmara-backend
+https://github.com/kevinalfito69/ASMARA-BackEnd/
+cd ASMARA-BackEnd
 ```
 
 
